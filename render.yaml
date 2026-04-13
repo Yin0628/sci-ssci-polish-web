@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sci-ssci-polish
+    env: docker
+    plan: starter
+    autoDeploy: true
